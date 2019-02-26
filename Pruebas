@@ -1,0 +1,24 @@
+[33mcommit 537ade870f63aff9cce0f2c7d468ea53d94600b3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 0e3f9d5 664612b
+Author: Yodi Pino <ypino@uccorp.net>
+Date:   Tue Feb 26 10:45:01 2019 -0500
+
+    Se resuelve conflicto entre las ramas master y Pruebas
+
+[33mcommit 0e3f9d5a5de891cb77e1c9ce8480f3a2f2293098[m
+Author: Yodi Pino <ypino@uccorp.net>
+Date:   Tue Feb 26 10:25:21 2019 -0500
+
+    Se realiza cambios en la master en las mismas lineas que en la rama Pruebas
+
+[33mcommit 664612bd592770c10c546b174d221ad524a20784[m[33m ([m[1;32mPruebas[m[33m)[m
+Author: Yodi Pino <ypino@uccorp.net>
+Date:   Tue Feb 26 10:16:13 2019 -0500
+
+    Se hace cambio en el archivo delete, linea 61, 63 y 64
+
+[33mcommit a6c9babd50bbbebf21e5fa518b7c563828052352[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Yodi Pino <ypino@uccorp.net>
+Date:   Mon Feb 25 10:29:02 2019 -0500
+
+    subiendo repositorio local en github
