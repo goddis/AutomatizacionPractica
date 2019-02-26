@@ -58,10 +58,10 @@ public class DeleteCarTest {
     public void test_DeleteCars() throws ParserConfigurationException, SAXException, IOException {
 
         objLogin = new LoginCars(driver);
-        objLogin.login("admin@phptravels.com", "demoadmin"); //función de logueo
+        objLogin.login("admin@phptravels.com", "demoadmin"); 
 
-        Alert alerta2 = driver.switchTo().alert();
-        alerta2.accept();
+        Alert alerta = driver.switchTo().alert();
+        alerta.accept();
         
         //String ConfirmacionDelete = driver.switchTo().alert().getText() ;
         //Assert.assertTrue(ConfirmacionDelete.contains("Customer deleted Successfully"));
