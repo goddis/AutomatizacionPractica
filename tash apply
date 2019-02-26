@@ -1,0 +1,54 @@
+[33mcommit be6d4d0ebb94400c76fe6d757e081b5c9aa85f86[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Yodi Pino <ypino@uccorp.net>
+Date:   Tue Feb 26 11:17:18 2019 -0500
+
+    cambio de nuevo
+
+[33mcommit 9d5eb5139db492a73bc2bdd38f8c3b808548c1d5[m
+Author: Yodi Pino <ypino@uccorp.net>
+Date:   Tue Feb 26 11:16:40 2019 -0500
+
+    Realizamos un cambio en el archivo delete linea 63,64
+
+[33mcommit e0e76592ca407bf8a8d46582c33610fc3444daa0[m
+Author: Yodi Pino <ypino@uccorp.net>
+Date:   Tue Feb 26 11:10:42 2019 -0500
+
+    cambio
+
+[33mcommit 8f95fff36b55ed0fd18e7f8a47f4ea2e94de67b8[m
+Author: Yodi Pino <ypino@uccorp.net>
+Date:   Tue Feb 26 11:09:33 2019 -0500
+
+    Se guarda cambio de conflicto solucionado
+
+[33mcommit 30a0f91b0643d5957be7ee76b7b50cb0060266ed[m
+Merge: ef5be9b 664612b
+Author: Yodi Pino <ypino@uccorp.net>
+Date:   Tue Feb 26 11:09:01 2019 -0500
+
+    se guardan cambios del conflicto que se habia revertido ese commit
+
+[33mcommit ef5be9b81fd3b7efa869d67c0ee8e0bc721c9fb0[m
+Author: Yodi Pino <ypino@uccorp.net>
+Date:   Tue Feb 26 11:06:04 2019 -0500
+
+    Se guarda el cambio del commit que se revirtio
+
+[33mcommit 0e3f9d5a5de891cb77e1c9ce8480f3a2f2293098[m
+Author: Yodi Pino <ypino@uccorp.net>
+Date:   Tue Feb 26 10:25:21 2019 -0500
+
+    Se realiza cambios en la master en las mismas lineas que en la rama Pruebas
+
+[33mcommit 664612bd592770c10c546b174d221ad524a20784[m[33m ([m[1;32mPruebas[m[33m)[m
+Author: Yodi Pino <ypino@uccorp.net>
+Date:   Tue Feb 26 10:16:13 2019 -0500
+
+    Se hace cambio en el archivo delete, linea 61, 63 y 64
+
+[33mcommit a6c9babd50bbbebf21e5fa518b7c563828052352[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Yodi Pino <ypino@uccorp.net>
+Date:   Mon Feb 25 10:29:02 2019 -0500
+
+    subiendo repositorio local en github
