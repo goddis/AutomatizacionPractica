@@ -60,8 +60,8 @@ public class DeleteCarTest {
         objLogin = new LoginCars(driver);
         objLogin.login("admin@phptravels.com", "demoadmin"); 
 
-        Alert alerta = driver.switchTo().alert();
-        alerta.accept();
+        Alert alerta2 = driver.switchTo().alert();
+        alerta2.accept();
         
         //String ConfirmacionDelete = driver.switchTo().alert().getText() ;
         //Assert.assertTrue(ConfirmacionDelete.contains("Customer deleted Successfully"));
