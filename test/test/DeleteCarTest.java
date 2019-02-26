@@ -62,6 +62,9 @@ public class DeleteCarTest {
 
         Alert alerta_ = driver.switchTo().alert();
         alerta_.accept();
+        
+        //Se realiza un cambio para demostrar que stash realizo un guardado temporal y que luego de un commit se puede 
+        //recuperar
         //String ConfirmacionDelete = driver.switchTo().alert().getText() ;
         //Assert.assertTrue(ConfirmacionDelete.contains("Customer deleted Successfully"));
  
